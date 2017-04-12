@@ -1,0 +1,6 @@
+C:\Users\Jake & Lanna\Desktop\projects\Switches\Switches\bin\Debug\Switches.exe.config
+C:\Users\Jake & Lanna\Desktop\projects\Switches\Switches\bin\Debug\Switches.exe
+C:\Users\Jake & Lanna\Desktop\projects\Switches\Switches\bin\Debug\Switches.pdb
+C:\Users\Jake & Lanna\Desktop\projects\Switches\Switches\obj\Debug\Switches.exe
+C:\Users\Jake & Lanna\Desktop\projects\Switches\Switches\obj\Debug\Switches.pdb
+C:\Users\Jake & Lanna\Desktop\projects\Switches\Switches\obj\Debug\Switches.csprojResolveAssemblyReference.cache
